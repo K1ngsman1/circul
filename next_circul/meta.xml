@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="img/bg.png"/>
+    <file src="img/icon.png"/>
+    <file src="img/elipse.png"/>
+</meta>
